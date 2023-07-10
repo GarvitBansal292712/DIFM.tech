@@ -2,7 +2,6 @@ body {
   font-family: "Poppins", sans-serif;
 }
 /* Navbar responsiveness fixed! */
-/* Still the collapse button is not working and elements are squishing together */
 nav {
   margin-top: -10px;
 }
